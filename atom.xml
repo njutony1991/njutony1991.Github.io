@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[TongXin's  Blog]]></title>
+  <link href="http://njutony1991.github.io/atom.xml" rel="self"/>
+  <link href="http://njutony1991.github.io/"/>
+  <updated>2017-04-04T01:22:38+08:00</updated>
+  <id>http://njutony1991.github.io/</id>
+  <author>
+    <name><![CDATA[TongXin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Blog]]></title>
+    <link href="http://njutony1991.github.io/blog/2016/10/15/first-blog/"/>
+    <updated>2016-10-15T15:17:14+08:00</updated>
+    <id>http://njutony1991.github.io/blog/2016/10/15/first-blog</id>
+    <content type="html"><![CDATA[<h3>Test</h3>
+
+<p>Hello World</p>
+]]></content>
+  </entry>
+  
+</feed>
